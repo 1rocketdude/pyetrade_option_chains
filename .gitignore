@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# E*TRADE OAuth token cache
+.etrade_oauth
+
+# JSON Output
+*.json
